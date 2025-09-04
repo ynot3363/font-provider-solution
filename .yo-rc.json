@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.17.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "font-provider-solution",
+    "libraryId": "7fe56721-2e73-4f64-ab57-29b01671ec05",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "font-provider-solution",
+    "solutionShortDescription": "font-provider-solution description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

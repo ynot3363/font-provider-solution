@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "font-provider-solution-client-side-solution",
+    "id": "7fe56721-2e73-4f64-ab57-29b01671ec05",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "font-provider-solution description"
+      },
+      "longDescription": {
+        "default": "font-provider-solution description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "font-provider-solution Feature",
+        "description": "The feature that activates elements of the font-provider-solution solution.",
+        "id": "8da068af-ec16-431f-aedd-49e5eedb99a3",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/font-provider-solution.sppkg"
+  }
+}
